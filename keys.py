@@ -1,0 +1,8 @@
+businessShortCode = "174379"
+consumerKey = "vGaq5fq4X3NNbsGAftkRmgjyy9N2h3Gp"
+consumerSecret = "pZAno0CMSEUIyh8E"
+phoneNo = "254724675145"
+lipaNaMpesaPassKey = "bfb279f9aa9bdbcf158e97dd71a467cd2e0c893059b10f78e6b72ada1ed2c919"
+shortcode1 = "600383"
+shortcode2 = "600000"
+MSISDN = "245708374149"
